@@ -16,7 +16,7 @@
     "microservice"
   ],
   "engines": {
-    "node": "18.x"
+    "node": "16.x"
   },
   "author": "Oussama Hajjiri",
   "license": "ISC",
