@@ -15,9 +15,6 @@
     "nodejs",
     "microservice"
   ],
-  "engines": {
-    "node": "16.x"
-  },
   "author": "Oussama Hajjiri",
   "license": "ISC",
   "homepage": "https://oussama-hajjiri.com",
